@@ -1,0 +1,379 @@
+16:18:13.093 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+16:18:17.083 [main] INFO  com.amazon.runner.Runner - BestSeller Located
+16:18:18.502 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+16:18:19.678 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+16:18:21.995 [main] INFO  com.amazon.runner.Runner - Fashion Located
+16:18:23.824 [main] INFO  com.amazon.runner.Runner - Electronics Located
+16:18:25.427 [main] INFO  com.amazon.runner.Runner - Prime Located
+16:18:26.663 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+16:18:28.554 [main] INFO  com.amazon.runner.Runner - New Releases Located
+16:18:32.184 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+16:18:34.577 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+16:18:36.656 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+16:18:40.032 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+16:18:43.331 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+16:18:46.474 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+16:18:49.892 [main] INFO  com.amazon.runner.Runner - Files Searched
+16:18:51.071 [main] INFO  com.amazon.runner.Runner - Username Entered
+16:18:52.290 [main] INFO  com.amazon.runner.Runner - Password Entered
+16:20:32.684 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+16:20:36.735 [main] INFO  com.amazon.runner.Runner - BestSeller Located
+16:20:38.204 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+16:20:39.231 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+16:20:41.349 [main] INFO  com.amazon.runner.Runner - Fashion Located
+16:20:42.995 [main] INFO  com.amazon.runner.Runner - Electronics Located
+16:20:44.476 [main] INFO  com.amazon.runner.Runner - Prime Located
+16:20:45.579 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+16:20:47.278 [main] INFO  com.amazon.runner.Runner - New Releases Located
+16:20:51.013 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+16:20:53.401 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+16:20:56.110 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+16:20:59.208 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+16:21:02.487 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+16:21:05.729 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+16:21:08.606 [main] INFO  com.amazon.runner.Runner - Files Searched
+16:21:09.943 [main] INFO  com.amazon.runner.Runner - Username Entered
+16:21:11.105 [main] INFO  com.amazon.runner.Runner - Password Entered
+16:22:05.824 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+16:22:09.685 [main] INFO  com.amazon.runner.Runner - BestSeller Located
+16:22:11.054 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+16:22:12.218 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+16:22:14.495 [main] INFO  com.amazon.runner.Runner - Fashion Located
+16:22:16.026 [main] INFO  com.amazon.runner.Runner - Electronics Located
+16:22:17.551 [main] INFO  com.amazon.runner.Runner - Prime Located
+16:22:18.685 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+16:22:20.507 [main] INFO  com.amazon.runner.Runner - New Releases Located
+16:22:23.975 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+16:22:26.584 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+16:22:29.243 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+16:22:32.287 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+16:22:35.301 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+16:22:38.234 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+16:22:41.637 [main] INFO  com.amazon.runner.Runner - Files Searched
+16:22:42.829 [main] INFO  com.amazon.runner.Runner - Username Entered
+16:22:44.114 [main] INFO  com.amazon.runner.Runner - Password Entered
+16:26:09.824 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+16:26:13.892 [main] INFO  com.amazon.runner.Runner - BestSeller Located
+16:26:15.264 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+16:26:16.249 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+16:26:18.496 [main] INFO  com.amazon.runner.Runner - Fashion Located
+16:26:20.299 [main] INFO  com.amazon.runner.Runner - Electronics Located
+16:26:22.054 [main] INFO  com.amazon.runner.Runner - Prime Located
+16:26:23.183 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+16:26:25.109 [main] INFO  com.amazon.runner.Runner - New Releases Located
+16:26:28.639 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+16:26:31.255 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+16:26:34.010 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+16:26:37.176 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+16:26:40.068 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+16:26:43.686 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+16:26:47.346 [main] INFO  com.amazon.runner.Runner - Files Searched
+16:26:48.417 [main] INFO  com.amazon.runner.Runner - Username Entered
+16:26:50.087 [main] INFO  com.amazon.runner.Runner - Password Entered
+16:38:32.798 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+16:38:36.856 [main] INFO  com.amazon.runner.Runner - BestSeller Located
+16:40:58.361 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+16:41:02.452 [main] INFO  com.amazon.runner.Runner - BestSeller Located
+16:41:04.105 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+16:41:05.295 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+16:41:07.553 [main] INFO  com.amazon.runner.Runner - Fashion Located
+16:41:09.455 [main] INFO  com.amazon.runner.Runner - Electronics Located
+16:41:10.997 [main] INFO  com.amazon.runner.Runner - Prime Located
+16:41:15.593 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+16:41:17.443 [main] INFO  com.amazon.runner.Runner - New Releases Located
+16:41:20.588 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+16:41:22.758 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+16:41:26.934 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+16:41:30.051 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+16:41:32.897 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+16:41:36.405 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+16:41:39.301 [main] INFO  com.amazon.runner.Runner - Files Searched
+16:41:40.663 [main] INFO  com.amazon.runner.Runner - Username Entered
+16:41:46.970 [main] INFO  com.amazon.runner.Runner - Password Entered
+10:39:07.824 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+10:39:20.437 [main] INFO  com.amazon.runner.Runner - BestSeller Located
+10:39:21.954 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+10:39:22.831 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+10:39:24.877 [main] INFO  com.amazon.runner.Runner - Fashion Located
+10:39:26.334 [main] INFO  com.amazon.runner.Runner - Electronics Located
+10:39:27.638 [main] INFO  com.amazon.runner.Runner - Prime Located
+10:39:33.612 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+10:39:35.198 [main] INFO  com.amazon.runner.Runner - New Releases Located
+10:39:38.385 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+10:39:40.604 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+10:39:44.230 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+10:39:47.436 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+10:39:50.431 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+10:39:53.289 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+10:39:56.302 [main] INFO  com.amazon.runner.Runner - Files Searched
+10:39:57.436 [main] INFO  com.amazon.runner.Runner - Username Entered
+10:40:03.683 [main] INFO  com.amazon.runner.Runner - Password Entered
+10:59:04.744 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+10:59:08.256 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+10:59:09.563 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+10:59:10.622 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+10:59:12.641 [main] INFO  com.amazon.runner.Runner - Fashion Located
+10:59:14.065 [main] INFO  com.amazon.runner.Runner - Electronics Located
+10:59:15.571 [main] INFO  com.amazon.runner.Runner - Prime Located
+10:59:16.535 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+10:59:18.185 [main] INFO  com.amazon.runner.Runner - New Releases Located
+10:59:21.340 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+10:59:23.690 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+10:59:25.798 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+10:59:29.127 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+10:59:32.051 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+10:59:35.801 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+10:59:39.882 [main] INFO  com.amazon.runner.Runner - Files Searched
+10:59:41.467 [main] INFO  com.amazon.runner.Runner - Username Entered
+10:59:42.678 [main] INFO  com.amazon.runner.Runner - Password Entered
+11:06:44.338 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+11:06:47.767 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+11:06:49.059 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+11:06:50.319 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+11:06:52.263 [main] INFO  com.amazon.runner.Runner - Fashion Located
+11:06:53.849 [main] INFO  com.amazon.runner.Runner - Electronics Located
+11:06:55.200 [main] INFO  com.amazon.runner.Runner - Prime Located
+11:06:56.134 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+11:06:57.613 [main] INFO  com.amazon.runner.Runner - New Releases Located
+11:07:00.856 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+11:07:03.224 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+11:07:05.431 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+11:07:08.383 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+11:07:11.205 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+11:07:13.958 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+11:07:16.883 [main] INFO  com.amazon.runner.Runner - Files Searched
+11:07:18.400 [main] INFO  com.amazon.runner.Runner - Username Entered
+11:07:19.881 [main] INFO  com.amazon.runner.Runner - Password Entered
+11:18:56.023 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+11:18:59.831 [main] INFO  com.amazon.runner.Runner - BestSeller Located
+11:19:01.233 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+11:19:02.269 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+11:19:04.543 [main] INFO  com.amazon.runner.Runner - Fashion Located
+11:19:06.473 [main] INFO  com.amazon.runner.Runner - Electronics Located
+11:19:08.175 [main] INFO  com.amazon.runner.Runner - Prime Located
+11:19:12.748 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+11:19:14.314 [main] INFO  com.amazon.runner.Runner - New Releases Located
+11:19:17.462 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+11:19:19.717 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+11:19:23.754 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+11:19:26.977 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+11:19:29.778 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+11:19:33.002 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+11:19:35.735 [main] INFO  com.amazon.runner.Runner - Files Searched
+11:19:37.282 [main] INFO  com.amazon.runner.Runner - Username Entered
+11:19:41.817 [main] INFO  com.amazon.runner.Runner - Password Entered
+11:20:22.356 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+11:20:25.970 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+11:20:27.293 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+11:20:28.531 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+11:20:31.009 [main] INFO  com.amazon.runner.Runner - Fashion Located
+11:20:32.940 [main] INFO  com.amazon.runner.Runner - Electronics Located
+11:20:34.504 [main] INFO  com.amazon.runner.Runner - Prime Located
+11:20:35.546 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+11:20:37.279 [main] INFO  com.amazon.runner.Runner - New Releases Located
+11:20:40.890 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+11:20:43.588 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+11:20:46.076 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+11:20:49.027 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+11:20:52.229 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+11:20:55.281 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+11:20:58.310 [main] INFO  com.amazon.runner.Runner - Files Searched
+11:20:59.516 [main] INFO  com.amazon.runner.Runner - Username Entered
+11:21:00.867 [main] INFO  com.amazon.runner.Runner - Password Entered
+13:43:15.582 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+13:43:18.781 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+13:43:19.976 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+13:43:21.382 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+13:43:23.459 [main] INFO  com.amazon.runner.Runner - Fashion Located
+13:43:25.200 [main] INFO  com.amazon.runner.Runner - Electronics Located
+13:43:26.751 [main] INFO  com.amazon.runner.Runner - Prime Located
+13:43:31.248 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+13:43:32.909 [main] INFO  com.amazon.runner.Runner - New Releases Located
+13:43:35.655 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+13:43:39.296 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+13:43:41.665 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+13:43:44.519 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+13:43:47.530 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+13:43:50.864 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+13:43:53.581 [main] INFO  com.amazon.runner.Runner - Files Searched
+13:43:54.747 [main] INFO  com.amazon.runner.Runner - Username Entered
+13:44:00.967 [main] INFO  com.amazon.runner.Runner - Password Entered
+13:45:06.466 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+13:45:09.479 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+13:45:10.781 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+13:45:11.780 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+13:45:13.574 [main] INFO  com.amazon.runner.Runner - Fashion Located
+13:45:15.132 [main] INFO  com.amazon.runner.Runner - Electronics Located
+13:45:16.619 [main] INFO  com.amazon.runner.Runner - Prime Located
+13:45:17.846 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+13:45:19.444 [main] INFO  com.amazon.runner.Runner - New Releases Located
+13:45:22.364 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+13:45:24.546 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+13:45:26.916 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+13:45:29.749 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+13:45:32.144 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+13:45:35.076 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+13:45:37.618 [main] INFO  com.amazon.runner.Runner - Files Searched
+13:45:38.667 [main] INFO  com.amazon.runner.Runner - Username Entered
+13:45:39.864 [main] INFO  com.amazon.runner.Runner - Password Entered
+13:56:50.295 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+13:57:08.074 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+13:57:11.327 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+13:57:12.652 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+13:57:13.590 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+13:57:15.726 [main] INFO  com.amazon.runner.Runner - Fashion Located
+13:57:17.332 [main] INFO  com.amazon.runner.Runner - Electronics Located
+13:57:18.796 [main] INFO  com.amazon.runner.Runner - Prime Located
+13:57:19.827 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+13:57:20.955 [main] INFO  com.amazon.runner.Runner - New Releases Located
+13:57:24.205 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+13:57:26.430 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+13:57:28.514 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+13:57:31.095 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+13:57:33.888 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+13:57:36.425 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+13:57:39.303 [main] INFO  com.amazon.runner.Runner - Files Searched
+13:57:40.429 [main] INFO  com.amazon.runner.Runner - Username Entered
+13:57:41.597 [main] INFO  com.amazon.runner.Runner - Password Entered
+13:59:21.461 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+13:59:25.376 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+13:59:26.894 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+13:59:27.966 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+13:59:29.906 [main] INFO  com.amazon.runner.Runner - Fashion Located
+13:59:31.342 [main] INFO  com.amazon.runner.Runner - Electronics Located
+13:59:32.791 [main] INFO  com.amazon.runner.Runner - Prime Located
+13:59:33.867 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+13:59:35.489 [main] INFO  com.amazon.runner.Runner - New Releases Located
+13:59:38.752 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+13:59:40.949 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+13:59:43.101 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+13:59:46.116 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+13:59:48.708 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+13:59:51.655 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+13:59:54.269 [main] INFO  com.amazon.runner.Runner - Files Searched
+13:59:55.517 [main] INFO  com.amazon.runner.Runner - Username Entered
+13:59:56.567 [main] INFO  com.amazon.runner.Runner - Password Entered
+14:03:12.074 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+14:03:15.370 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+14:03:17.007 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+14:03:17.949 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+14:03:19.847 [main] INFO  com.amazon.runner.Runner - Fashion Located
+14:03:21.511 [main] INFO  com.amazon.runner.Runner - Electronics Located
+14:03:22.933 [main] INFO  com.amazon.runner.Runner - Prime Located
+14:03:23.955 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+14:03:25.185 [main] INFO  com.amazon.runner.Runner - New Releases Located
+14:03:28.264 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+14:03:30.464 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+14:03:32.850 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+14:03:35.857 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+14:03:38.771 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+14:03:41.674 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+14:03:44.926 [main] INFO  com.amazon.runner.Runner - Files Searched
+14:03:45.985 [main] INFO  com.amazon.runner.Runner - Username Entered
+14:03:47.151 [main] INFO  com.amazon.runner.Runner - Password Entered
+14:06:39.239 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+14:06:42.564 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+14:06:44.129 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+14:06:45.199 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+14:06:47.377 [main] INFO  com.amazon.runner.Runner - Fashion Located
+14:06:49.824 [main] INFO  com.amazon.runner.Runner - Electronics Located
+14:06:51.172 [main] INFO  com.amazon.runner.Runner - Prime Located
+14:06:52.105 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+14:06:53.748 [main] INFO  com.amazon.runner.Runner - New Releases Located
+14:06:57.085 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+14:06:59.506 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+14:07:01.705 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+14:07:04.583 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+14:07:07.260 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+14:07:09.910 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+14:07:12.403 [main] INFO  com.amazon.runner.Runner - Files Searched
+14:07:14.407 [main] INFO  com.amazon.runner.Runner - Username Entered
+14:07:15.506 [main] INFO  com.amazon.runner.Runner - Password Entered
+14:09:01.483 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+14:09:04.841 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+14:09:06.397 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+14:09:07.309 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+14:09:09.174 [main] INFO  com.amazon.runner.Runner - Fashion Located
+14:09:10.622 [main] INFO  com.amazon.runner.Runner - Electronics Located
+14:09:11.967 [main] INFO  com.amazon.runner.Runner - Prime Located
+14:09:12.849 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+14:09:15.475 [main] INFO  com.amazon.runner.Runner - New Releases Located
+14:09:18.347 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+14:09:20.923 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+14:09:23.298 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+14:09:26.241 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+14:09:29.032 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+14:09:32.027 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+14:09:34.991 [main] INFO  com.amazon.runner.Runner - Files Searched
+14:09:36.158 [main] INFO  com.amazon.runner.Runner - Username Entered
+14:09:37.250 [main] INFO  com.amazon.runner.Runner - Password Entered
+15:07:55.119 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+15:07:59.969 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+15:08:01.869 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+15:08:03.002 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+15:08:05.310 [main] INFO  com.amazon.runner.Runner - Fashion Located
+15:08:07.141 [main] INFO  com.amazon.runner.Runner - Electronics Located
+15:08:08.657 [main] INFO  com.amazon.runner.Runner - Prime Located
+15:08:09.864 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+15:08:11.336 [main] INFO  com.amazon.runner.Runner - New Releases Located
+15:08:14.730 [main] INFO  com.amazon.runner.Runner - Refrigerator Searched
+15:08:18.859 [main] INFO  com.amazon.runner.Runner - Mobile Searched
+15:08:21.450 [main] INFO  com.amazon.runner.Runner - Smart TV Searched
+15:08:24.436 [main] INFO  com.amazon.runner.Runner - Footwear Searched
+15:08:27.863 [main] INFO  com.amazon.runner.Runner - Utensils Searched
+15:08:30.872 [main] INFO  com.amazon.runner.Runner - Clothes Searched
+15:08:33.780 [main] INFO  com.amazon.runner.Runner - Files Searched
+15:08:35.078 [main] INFO  com.amazon.runner.Runner - Username Entered
+15:08:39.608 [main] INFO  com.amazon.runner.Runner - Password Entered
+23:33:04.699 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+23:33:10.712 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+23:33:12.546 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+23:33:13.911 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+23:33:20.129 [main] INFO  com.amazon.runner.Runner - Fashion Located
+23:33:22.184 [main] INFO  com.amazon.runner.Runner - Electronics Located
+23:33:24.067 [main] INFO  com.amazon.runner.Runner - Prime Located
+23:33:25.060 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+23:33:26.618 [main] INFO  com.amazon.runner.Runner - New Releases Located
+23:33:27.558 [main] INFO  com.amazon.runner.Runner - Username Entered
+23:33:28.821 [main] INFO  com.amazon.runner.Runner - Password Entered
+09:57:27.348 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+09:57:54.956 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+09:58:06.766 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+09:58:10.703 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+09:58:19.123 [main] INFO  com.amazon.runner.Runner - Fashion Located
+09:58:33.550 [main] INFO  com.amazon.runner.Runner - Electronics Located
+09:58:37.573 [main] INFO  com.amazon.runner.Runner - Prime Located
+09:58:41.636 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+09:58:45.652 [main] INFO  com.amazon.runner.Runner - New Releases Located
+09:58:47.620 [main] INFO  com.amazon.runner.Runner - Username Entered
+10:57:12.676 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+10:57:24.815 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+10:57:27.417 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+10:57:30.485 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+10:57:34.397 [main] INFO  com.amazon.runner.Runner - Fashion Located
+10:57:36.668 [main] INFO  com.amazon.runner.Runner - Electronics Located
+10:57:38.702 [main] INFO  com.amazon.runner.Runner - Prime Located
+10:57:41.172 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+10:57:43.593 [main] INFO  com.amazon.runner.Runner - New Releases Located
+10:57:45.428 [main] INFO  com.amazon.runner.Runner - Username Entered
+18:53:49.931 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+18:53:59.838 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+18:54:02.000 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+18:54:04.332 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+18:54:11.825 [main] INFO  com.amazon.runner.Runner - Fashion Located
+18:54:15.330 [main] INFO  com.amazon.runner.Runner - Electronics Located
+18:54:18.025 [main] INFO  com.amazon.runner.Runner - Prime Located
+18:54:19.779 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+18:54:22.073 [main] INFO  com.amazon.runner.Runner - New Releases Located
+18:54:23.545 [main] INFO  com.amazon.runner.Runner - Username Entered
+18:56:49.523 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+18:57:09.290 [main] ERROR com.amazon.runner.Runner - BestSeller not Found!!
+18:57:11.448 [main] INFO  com.amazon.runner.Runner - Mobiles Located
+18:57:13.251 [main] INFO  com.amazon.runner.Runner - Amazon Pay Located
+18:57:17.859 [main] INFO  com.amazon.runner.Runner - Fashion Located
+18:57:20.549 [main] INFO  com.amazon.runner.Runner - Electronics Located
+18:57:22.951 [main] INFO  com.amazon.runner.Runner - Prime Located
+18:57:24.141 [main] INFO  com.amazon.runner.Runner - Customer Service Pay Located
+18:57:26.306 [main] INFO  com.amazon.runner.Runner - New Releases Located
+18:59:01.279 [main] INFO  com.amazon.runner.Runner - Test Suite setup is Complete
+18:59:07.278 [main] INFO  com.amazon.runner.Runner - Mobiles Located
